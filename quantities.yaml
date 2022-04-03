@@ -998,7 +998,7 @@ NISTq52:
   unit_reference:
     - name: cubic meter per kilogram
       url: "#NISTu1e3/1.u27p10'3"
-      url: "#NISTu101"
+      # url: "#NISTu101"
 
 NISTq53:
   dimension_url: "#NISTd32"
@@ -1071,10 +1071,9 @@ NISTq55:
   dimension_url: "#NISTd34"
   quantity_type: derived
   quantity_name:
+    - concentration
     - amount concentration
     - amount-of-substance concentration
-  quantity_name:
-    - concentration
   unit_reference:
     - name: mole per liter
       url: "#NISTu366"

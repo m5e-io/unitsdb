@@ -1162,7 +1162,6 @@
       - unit: "second"
         power_denominator: 1
         power_numerator: -1
-    enumerated_root_units:
       - unit: "meter"
         power_denominator: 1
         power_numerator: 1
@@ -3869,7 +3868,6 @@
       - unit: "meter"
         power_denominator: 1
         power_numerator: -1
-    enumerated_root_units:
       - unit: "kelvin"
         power_denominator: 1
         power_numerator: -1
@@ -4099,7 +4097,6 @@
       - unit: "mole"
         power_denominator: 1
         power_numerator: -1
-    enumerated_root_units:
       - unit: "kelvin"
         power_denominator: 1
         power_numerator: -1
@@ -6348,7 +6345,7 @@
       ascii: "W*m^-2*K^-1"
       html: W/(m&nbsp;<sup>2</sup>&#8201;&#183;&#8201;K)
       mathml: "<mi mathvariant='normal'>W/(m&nbsp;<sup>2</sup>&#8201;&#183;&#8201;K)</mi>"
-      mathml: "<mrow><mi mathvariant='normal'>W</mi><mo>/</mo><mrow><mo>(</mo><msup><mrow><mi mathvariant='normal'>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>&#183;</mo><mi mathvariant='normal'>K</mi><mo>)</mo></mrow></mrow>"
+      # mathml: "<mrow><mi mathvariant='normal'>W</mi><mo>/</mo><mrow><mo>(</mo><msup><mrow><mi mathvariant='normal'>m</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>&#183;</mo><mi mathvariant='normal'>K</mi><mo>)</mo></mrow></mrow>"
       latex: \ensuremath{\mathrm{W/(m^2\cdot K)}}
       unicode: W/(m²·K)
   root_units:
@@ -6359,7 +6356,6 @@
       - unit: "meter"
         power_denominator: 1
         power_numerator: -2
-    enumerated_root_units:
       - unit: "kelvin"
         power_denominator: 1
         power_numerator: -1
@@ -8232,7 +8228,7 @@
       mathml: "<mrow><msup><mi mathvariant='italic'>e</mi><mn>2</mn></msup><mo>/</mo><msub><mi mathvariant='italic'>a</mi><mn>0</mn></msub><msub><mi mathvariant='italic'>E</mi><mi mathvariant='normal'>h</mi></msub></mrow>"
       latex: \ensuremath{\mathit{e}^2/\mathit(a}_0\mathit{E}_h}
       unicode: 𝑒²/𝑎₀𝐸ₕ
-  root_units: 
+  root_units:
     enumerated_root_units:
       - unit: "atomic_unit_of_permittivity"
         power_denominator: 1
@@ -10458,7 +10454,7 @@
       mathml: "<mi mathvariant='normal'>ppm</mi>"
       latex: \ensuremath{\mathrm{ppm}}
       unicode: "ppm"
-  quantity_reference:    
+  quantity_reference:
     - name: "mass quantity"
       url: "#NISTq1000"
 
