@@ -2,10 +2,10 @@
 NISTp10_24:
   name: yotta
   symbol:
-    ascii: Y
-    html: Y
-    latex: Y
-    unicode: Y
+    ascii: "Y"
+    html: "Y"
+    latex: "Y"
+    unicode: "Y"
   base: 10
   power: 24
 
@@ -203,10 +203,10 @@ NISTp10_-21:
 NISTp10_-24:
   name: yocto
   symbol:
-    ascii: y
-    html: y
-    latex: y
-    unicode: y
+    ascii: "y"
+    html: "y"
+    latex: "y"
+    unicode: "y"
   base: 10
   power: -24
 

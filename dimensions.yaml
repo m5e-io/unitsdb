@@ -63,7 +63,7 @@ NISTd5:
 NISTd6:
   amount_of_substance:
     powerNumerator: 1
-    symbol: N
+    symbol: "N"
     dim_symbols:
     - id: "dim_N"
       ascii: "N"
@@ -289,7 +289,7 @@ NISTd26:
     symbol: T
   amount_of_substance:
     powerNumerator: 1
-    symbol: N
+    symbol: "N"
 
 NISTd29:
   length:
@@ -326,7 +326,7 @@ NISTd34:
     symbol: L
   amount_of_substance:
     powerNumerator: 1
-    symbol: N
+    symbol: "N"
 
 NISTd35:
   time:
@@ -466,7 +466,7 @@ NISTd47:
     symbol: T
   amount_of_substance:
     powerNumerator: -1
-    symbol: N
+    symbol: "N"
 
 NISTd44:
   length:
@@ -535,7 +535,7 @@ NISTd48:
     symbol: Theta
   amount_of_substance:
     powerNumerator: -1
-    symbol: N
+    symbol: "N"
 
 NISTd55:
   mass:
@@ -546,7 +546,7 @@ NISTd55:
     symbol: T
   amount_of_substance:
     powerNumerator: 1
-    symbol: N
+    symbol: "N"
 
 NISTd54:
   length:
@@ -767,7 +767,7 @@ NISTd79:
     symbol: M
   amount_of_substance:
     powerNumerator: 1
-    symbol: N
+    symbol: "N"
 
 NISTd72:
   length:
